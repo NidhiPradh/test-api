@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "iFlow_crud.Api.Controllers.PatientController",
+    "Method": "AddPatient",
+    "RelativePath": "api/Patient/AddPatient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "iFlow_crud.repository.Models.Patient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
