@@ -18,6 +18,7 @@ namespace iFlow_crud.Api
             
             services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(_configuration.GetConnectionString("DefaultConnection")));
+            // registering the services to make loosely coupled
             services.AddScoped<IFlowService, FlowService>();
             services.AddScoped<IFlowRepository, FlowRepository>();
 

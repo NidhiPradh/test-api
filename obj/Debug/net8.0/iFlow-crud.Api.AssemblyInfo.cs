@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("iFlow-crud.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba12340265232b56e0443b5eaad3fd678bdf596")]
 [assembly: System.Reflection.AssemblyProductAttribute("iFlow-crud.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("iFlow-crud.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
